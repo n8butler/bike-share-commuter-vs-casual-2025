@@ -1,0 +1,3 @@
+# rideable_type,casual_count,member_count,casual_avg_duration,casual_avg_duration_sec,member_avg_duration,member_avg_duration_sec
+classic_bike,843244,1548357,0:38:13,2293,0:14:02,842
+electric_bike,1414301,2410129,0:14:13,853,0:11:05,665

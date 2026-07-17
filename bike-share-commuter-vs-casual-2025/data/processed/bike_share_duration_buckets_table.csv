@@ -1,0 +1,7 @@
+duration_bucket,casual_trip_count,member_trip_count,casual_pct_of_type,member_pct_of_type
+0-5 min,403178,991720,17.21,24.68
+5-10 min,622740,1328350,26.58,33.06
+10-15 min,420204,748262,17.94,18.62
+15-30 min,536438,735733,22.9,18.31
+30-60 min,243494,188647,10.39,4.7
+60+ min,116705,24896,4.98,0.62

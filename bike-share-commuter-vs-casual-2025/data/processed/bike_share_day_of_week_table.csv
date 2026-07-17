@@ -1,0 +1,8 @@
+# day_of_week,casual_count,member_count,casual_avg_duration,casual_avg_duration_sec,member_avg_duration,member_avg_duration_sec
+Monday,283395,586833,0:22:24,1344.00,0:11:43,703.00
+Tuesday,267415,643878,0:19:44,1184.00,0:11:46,706.00
+Wednesday,262090,618008,0:18:57,1137.00,0:11:39,699.00
+Thursday,295439,632252,0:19:55,1195.00,0:11:47,707.00
+Friday,361022,583059,0:22:24,1344.00,0:12:06,726.00
+Saturday,471065,505032,0:25:41,1541.00,0:13:18,798.00
+Sunday,402333,448546,0:26:32,1592.00,0:13:30,810.00
