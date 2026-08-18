@@ -103,4 +103,4 @@ Chicago's bike share may have operated with one-size-fits-all strategies despite
 
 **Data Source:** [Divvy System Data](https://divvy-tripdata.s3.amazonaws.com/index.html)  
 **Tools:** MySQL | Excel | PowerPoint  
-**Project Files:** [Presentation](https://github.com/n8butler/bike-share-commuter-vs-casual-2025/blob/main/bike-share-commuter-vs-casual-2025/reports/2025_bike_share_20260128.pdf) | [SQL Scripts](link) | [Excel Analysis and Visualization Worksheet](link)
+**Project Files:** [Presentation](https://github.com/n8butler/bike-share-commuter-vs-casual-2025/blob/main/bike-share-commuter-vs-casual-2025/reports/2025_bike_share_20260128.pdf) | [SQL Scripts](https://github.com/n8butler/bike-share-commuter-vs-casual-2025/tree/main/bike-share-commuter-vs-casual-2025/scripts) | [Excel Analysis and Visualization Worksheet](https://github.com/n8butler/bike-share-commuter-vs-casual-2025/blob/main/bike-share-commuter-vs-casual-2025/data/processed/2025_bike_share_20260128.xlsx)
