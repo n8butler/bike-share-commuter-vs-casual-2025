@@ -63,14 +63,12 @@ Chicago's bike share may have operated with one-size-fits-all strategies despite
 - 11-13 min rides (100% of hours), only 3.3 min annual variance
 - 76% of trips under 15 minutes
 - 75% winter reduction but maintain presence (10.8% annual share)
-
+![Ride Count vs Month](https://github.com/n8butler/bike-share-commuter-vs-casual-2025/blob/main/bike-share-commuter-vs-casual-2025/images/ride_count_vs_month.png "")
 **Casuals = Seasonal Recreationalists:**
 - 53% higher weekend volume, 34% Friday surge
 - 16-28 min variable rides, 23 min average
 - 8.2x more 60+ min rides, 2.7x longer on classic bikes
 - 93% winter dropout (4.5% annual share)
-
-*[Insert 1-2 key visualizations]*
 
 ### Strategic Recommendations
 
