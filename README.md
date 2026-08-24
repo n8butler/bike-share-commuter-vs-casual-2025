@@ -1,4 +1,4 @@
-# Chicago Bike Share: Optimizing for Dual-Use Patterns
+# [Chicago Bike Share: Optimizing for Dual-Use Patterns](https://github.com/n8butler/bike-share-commuter-vs-casual-2025/blob/main/bike-share-commuter-vs-casual-2025/reports/2025_bike_share_20260128.pdf)
 
 ## Executive Summary
 Chicago's bike share serves 5.5M annual trips across two fundamentally different user behaviors, but operational decisions (fleet distribution, pricing, station placement) may not have been differentiated, risking revenue loss and inefficient resource allocation. I analyzed 12 months of ridership data (Sept 2024–Aug 2025) to quantify behavioral differences between member commuters and casual recreational riders.
